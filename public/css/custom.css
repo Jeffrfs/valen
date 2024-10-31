@@ -1,0 +1,13 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-size: cover; /* Menutupi seluruh latar belakang */
+    background-position: center; /* Pusat gambar */
+    background-repeat: no-repeat; /* Tidak mengulang gambar */
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.8); /* Efek transparan pada kontainer */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
